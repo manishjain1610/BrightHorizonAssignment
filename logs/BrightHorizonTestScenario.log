@@ -1,0 +1,13 @@
+[21-03:19 2025-03-03] [INFO]: 	Navigating to home page. Test Begins.
+[21-03:13 2025-03-03] [INFO]: 	Clicking on Find A Center link.
+[21-03:15 2025-03-03] [INFO]: 	Checking that new page has the correct URL.
+[21-03:15 2025-03-03] [INFO]: 	Searching for Location described in test.
+[21-03:58 2025-03-03] [INFO]: 	Navigating to home page. Test Begins.
+[21-03:01 2025-03-03] [INFO]: 	Clicking on Find A Center link.
+[21-03:03 2025-03-03] [INFO]: 	Checking that new page has the correct URL.
+[21-03:03 2025-03-03] [INFO]: 	Searching for Location described in test.
+[21-03:08 2025-03-03] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[21-03:08 2025-03-03] [INFO]: 	Getting the details of first center from the list.
+[21-03:08 2025-03-03] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[21-03:08 2025-03-03] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[21-03:08 2025-03-03] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013

@@ -1,0 +1,135 @@
+# Playwright Bright Horization Scenario Demo
+
+This repository contains a Playwright UI test written in TypeScript and is configured to run tests in different environments such as QA and Production.
+
+## Table of Contents
+
+- [Installation](#installation)
+  - [Install Node.js and npm](#install-nodejs-and-npm)
+  - [Install Playwright](#install-playwright)
+  - [Install Visual Studio Code](#install-visual-studio-code)
+  - [Install Project Dependencies](#install-project-dependencies)
+- [Project Structure](#project-structure)
+  - [Configuration Files](#configuration)
+- [Running Tests](#running-tests)
+  - [Running Tests in Different Environments](#running-tests-in-different-environments)
+  - [Running Headless Tests](#running-headless-tests)
+- [Best Practices Used](#best-practices-used)
+
+## Installation
+
+### Install Node.js and npm
+
+1. **Download and Install Node.js**: Visit [nodejs.org](https://nodejs.org/) and download the LTS version of Node.js. The npm package manager is included with Node.js.
+
+2. **Verify Installation**: After installing Node.js, you can verify the installation by running the following commands in your terminal:
+
+   ```bash
+   node -v
+   npm -v
+   ```
+
+### Install Playwright
+
+1. **Install Playwright**: Run the following command to install Playwright and its dependencies:
+
+   ```bash
+   npm install @playwright/test
+   ```
+
+2. **Install Browsers**: Run the following command to install the required browsers:
+
+   ```bash
+   npx playwright install
+   ```
+
+### Install Visual Studio Code
+
+1. **Download and Install VSCode**: Visit [code.visualstudio.com](https://code.visualstudio.com/) and download the latest version of Visual Studio Code.
+
+### Install Project Dependencies
+
+1. **Clone the Repository**: Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/manishjain1610/BrightHorizonAssignment.git
+   ```
+
+2. **Install Dependencies**: Navigate to the project directory and run the following command to install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Project Structure
+
+```plaintext
+BrightHorizonAssignment/
+├── node_modules/
+├── playwright-report/
+├── src/
+│   ├── pages/
+│   │   ├── BasePage.ts
+│   │   ├── CenterLocatorPage.ts
+│   │   ├── HomePage.ts
+│   ├── tests/
+│   │   ├── config/
+│   │   │   └── app.config.ts
+│   │   ├── resources/
+│   │   │   └── prod/
+│   │   │       └── testdata.json
+│   │   │   └── qa/
+│   │   │       └── testdata.json
+│   │   └── centerSearch.spec.ts
+│   └── utils/
+│       └── WinstonLogger.ts
+├── test-results/
+├── .gitignore
+|── .eslintrc.json
+|── .prettierrc
+├── package-lock.json
+├── package.json
+└── playwright.config.ts
+└── README.md
+```
+
+### Configuration
+
+- **package.json**: Defines the scripts and dependencies for the project.
+- **playwright.config.ts**: Configuration file for Playwright tests.
+
+## Running Tests
+
+### Running Tests in Different Environments
+
+- **QA Environment**:
+
+  ```bash
+  npm run test-qa
+  ```
+
+- **Production Environment**:
+
+  ```bash
+  npm run test-prod
+  ```
+
+### Running Headless Tests
+
+- **QA Environment (Headless)**:
+
+  ```bash
+  npm run headless-test-qa
+  ```
+
+- **Production Environment (Headless)**:
+
+  ```bash
+  npm run headless-test-prod
+  ```
+
+## Best Practices Used
+
+- **Page Object Model Design Pattern:** Ensures the test code is maintainable and scalable by separating page logic and test scenarios.
+- **Multiple Environment Support:** Supports QA and PROD environments with separate test data.
+- **Automatic Retrying Mechanism:** Increases test resilience by automatically retrying failed test cases, reducing false negatives, and ensuring more stable results.
