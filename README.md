@@ -83,7 +83,7 @@ BrightHorizonAssignment/
 │   │   │   └── qa/
 │   │   │       └── testdata.json
 │   │   ├── centerSearch.spec.ts
-│	  │   └── resourceSearch.spec.ts
+│   │   └── resourceSearch.spec.ts
 │   └── utils/
 │       └── WinstonLogger.ts
 ├── test-results/
