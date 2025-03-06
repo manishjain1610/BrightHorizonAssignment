@@ -5,11 +5,19 @@ import { APPLICATION_URL } from '../tests/config/app.config';
 export class HomePage extends BasePage {
   private readonly findCenterLink: Locator;
   private readonly manageCookiesAcceptAllButton: Locator;
+  private readonly searchOption: Locator;
+  readonly searchField: Locator;
+  private readonly searchFieldSearchButton: Locator;
 
   constructor(page: Page) {
     super(page);
     this.findCenterLink = page.getByRole('link', { name: 'Find a Center' }).nth(1);
     this.manageCookiesAcceptAllButton = page.getByRole('button', { name: 'Accept All' });
+    this.searchOption = page.locator(
+      'a.nav-link-search[aria-controls="subnav-search-desktop-top"]'
+    );
+    this.searchField = page.getByRole('textbox', { name: 'Type to Search' });
+    this.searchFieldSearchButton = page.getByRole('button', { name: 'Search' });
   }
 
   /** Function to navigate to home page.
@@ -28,5 +36,18 @@ export class HomePage extends BasePage {
    */
   async clickFindCenter(): Promise<void> {
     await this.clickElement(this.findCenterLink);
+  }
+
+  /** Function to click on search icon on top of page
+   */
+  async clickFindResource(): Promise<void> {
+    await this.searchOption.click();
+  }
+
+  /** Function to search for a resource
+   */
+  async searchResource(resource: string): Promise<void> {
+    await this.typeText(this.searchField, resource);
+    await this.searchFieldSearchButton.click();
   }
 }

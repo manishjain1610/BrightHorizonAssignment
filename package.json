@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test-qa": "set TEST_ENV=qa && npx playwright test --headed && npx playwright show-report",
+    "test-qa-Sequentially": "set TEST_ENV=qa && npx playwright test --workers=1 --headed && npx playwright show-report",
     "test-prod": "set TEST_ENV=prod && npx playwright test --headed && npx playwright show-report",
     "headless-test-qa": "set TEST_ENV=qa && npx playwright test && npx playwright show-report",
     "headless-test-prod": "set TEST_ENV=prod && npx playwright test && npx playwright show-report",

@@ -14,6 +14,7 @@ This repository contains a Playwright UI test written in TypeScript and is confi
 - [Running Tests](#running-tests)
   - [Running Tests in Different Environments](#running-tests-in-different-environments)
   - [Running Headless Tests](#running-headless-tests)
+  - [Running Tests Sequentially](#running-tests-sequentially)
 - [Best Practices Used](#best-practices-used)
 
 ## Installation
@@ -72,15 +73,17 @@ BrightHorizonAssignment/
 │   │   ├── BasePage.ts
 │   │   ├── CenterLocatorPage.ts
 │   │   ├── HomePage.ts
+│	│	├── ResourceSearchPage.ts
 │   ├── tests/
 │   │   ├── config/
 │   │   │   └── app.config.ts
 │   │   ├── resources/
-│   │   │   └── prod/
-│   │   │       └── testdata.json
+│   │   │   ├── prod/
+│   │   │   │   └── testdata.json
 │   │   │   └── qa/
 │   │   │       └── testdata.json
-│   │   └── centerSearch.spec.ts
+│   │   ├── centerSearch.spec.ts
+│	│	└── resourceSearch.spec.ts
 │   └── utils/
 │       └── WinstonLogger.ts
 ├── test-results/
@@ -126,6 +129,13 @@ BrightHorizonAssignment/
 
   ```bash
   npm run headless-test-prod
+  ```
+### Running Tests Sequentially
+
+- **QA Environment**:
+
+  ```bash
+  npm run test-qa-Sequentially
   ```
 
 ## Best Practices Used

@@ -11,3 +11,177 @@
 [21-03:08 2025-03-03] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
 [21-03:08 2025-03-03] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
 [21-03:08 2025-03-03] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[19-03:40 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:47 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[19-03:49 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[19-03:49 2025-03-06] [INFO]: 	Searching for Location described in test.
+[19-03:54 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[19-03:54 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[19-03:54 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[19-03:54 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[19-03:54 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[19-03:31 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:38 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:05 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:11 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:50 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:54 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:42 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:48 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:18 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:25 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:40 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:47 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:19 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:26 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:08 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:16 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:51 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:00 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:17 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:24 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:22 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:29 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:01 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:11 2025-03-06] [INFO]: 	Clicking on search option to open search field.
+[19-03:07 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:16 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[19-03:18 2025-03-06] [INFO]: 	The resource search field is visible.
+[19-03:18 2025-03-06] [INFO]: 	The resource search field is editable.
+[19-03:18 2025-03-06] [INFO]: 	Searching for the specified resource.
+[19-03:21 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[19-03:55 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:55 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:05 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[19-03:05 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[19-03:07 2025-03-06] [INFO]: 	The resource search field is visible.
+[19-03:07 2025-03-06] [INFO]: 	The resource search field is editable.
+[19-03:07 2025-03-06] [INFO]: 	Searching for the specified resource.
+[19-03:08 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[19-03:09 2025-03-06] [INFO]: 	Searching for Location described in test.
+[19-03:12 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[19-03:15 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[19-03:15 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[19-03:15 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[19-03:16 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[19-03:16 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[19-03:37 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:37 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[19-03:45 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[19-03:46 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[19-03:47 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[19-03:47 2025-03-06] [INFO]: 	Searching for Location described in test.
+[19-03:49 2025-03-06] [INFO]: 	The resource search field is visible.
+[19-03:49 2025-03-06] [INFO]: 	The resource search field is editable.
+[19-03:49 2025-03-06] [INFO]: 	Searching for the specified resource.
+[19-03:54 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[19-03:55 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[19-03:55 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[19-03:55 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[19-03:56 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[19-03:56 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:26 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:26 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:38 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:40 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:40 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:41 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:41 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:42 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:42 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:45 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:48 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:48 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:48 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:48 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:48 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:37 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:37 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:45 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:45 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:47 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:47 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:47 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:48 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:48 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:51 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:55 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:55 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:55 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:55 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:55 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:39 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:39 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:44 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:46 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:46 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:48 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:51 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:51 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:51 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:54 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:54 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:54 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:55 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:55 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:55 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:33 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:42 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:43 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:44 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:49 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:49 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:49 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:49 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:49 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:51 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:54 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:56 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:56 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:56 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:58 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:19 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:19 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:26 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:27 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:28 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:28 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:28 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:31 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:33 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:34 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:38 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:38 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:38 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:38 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:38 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:57 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:04 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:06 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:06 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:11 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:11 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:11 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:11 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:11 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+[20-03:13 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:19 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:19 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:19 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:19 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:23 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:12 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:12 2025-03-06] [INFO]: 	Navigating to home page. Test Begins.
+[20-03:20 2025-03-06] [INFO]: 	Clicking on search icon to open search field.
+[20-03:21 2025-03-06] [INFO]: 	Clicking on Find A Center link.
+[20-03:22 2025-03-06] [INFO]: 	The resource search field is visible.
+[20-03:23 2025-03-06] [INFO]: 	The resource search field is editable.
+[20-03:23 2025-03-06] [INFO]: 	Searching for the specified resource.
+[20-03:24 2025-03-06] [INFO]: 	Checking that new page has the correct URL.
+[20-03:25 2025-03-06] [INFO]: 	Searching for Location described in test.
+[20-03:27 2025-03-06] [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+[20-03:31 2025-03-06] [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+[20-03:31 2025-03-06] [INFO]: 	Getting the details of first center from the list.
+[20-03:31 2025-03-06] [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+[20-03:31 2025-03-06] [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+[20-03:31 2025-03-06] [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
