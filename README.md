@@ -73,7 +73,7 @@ BrightHorizonAssignment/
 │   │   ├── BasePage.ts
 │   │   ├── CenterLocatorPage.ts
 │   │   ├── HomePage.ts
-│	│	├── ResourceSearchPage.ts
+│   │ 	├── ResourceSearchPage.ts
 │   ├── tests/
 │   │   ├── config/
 │   │   │   └── app.config.ts
@@ -83,7 +83,7 @@ BrightHorizonAssignment/
 │   │   │   └── qa/
 │   │   │       └── testdata.json
 │   │   ├── centerSearch.spec.ts
-│	│	└── resourceSearch.spec.ts
+│	  │   └── resourceSearch.spec.ts
 │   └── utils/
 │       └── WinstonLogger.ts
 ├── test-results/
