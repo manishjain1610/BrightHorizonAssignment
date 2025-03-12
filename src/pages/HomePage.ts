@@ -8,6 +8,8 @@ export class HomePage extends BasePage {
   private readonly searchOption: Locator;
   readonly searchField: Locator;
   private readonly searchFieldSearchButton: Locator;
+  private readonly ourSolutions: Locator;
+  private readonly backUpCare: Locator;
 
   constructor(page: Page) {
     super(page);
@@ -18,6 +20,11 @@ export class HomePage extends BasePage {
     );
     this.searchField = page.getByRole('textbox', { name: 'Type to Search' });
     this.searchFieldSearchButton = page.getByRole('button', { name: 'Search' });
+    this.ourSolutions = page.getByRole('button', { name: 'Our Solutions' }).nth(1);
+    this.backUpCare = page
+      .getByRole('listitem')
+      .filter({ hasText: /^Back-Up Care$/ })
+      .getByRole('link');
   }
 
   /** Function to navigate to home page.
@@ -49,5 +56,10 @@ export class HomePage extends BasePage {
   async searchResource(resource: string): Promise<void> {
     await this.typeText(this.searchField, resource);
     await this.searchFieldSearchButton.click();
+  }
+
+  async navigateToBackupCarePage(): Promise<void> {
+    await this.ourSolutions.click();
+    await this.backUpCare.click();
   }
 }
