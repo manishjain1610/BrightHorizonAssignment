@@ -70,10 +70,11 @@ BrightHorizonAssignment/
 ├── playwright-report/
 ├── src/
 │   ├── pages/
+│   │   ├── BackupCarePage.ts
 │   │   ├── BasePage.ts
 │   │   ├── CenterLocatorPage.ts
 │   │   ├── HomePage.ts
-│   │ 	├── ResourceSearchPage.ts
+│   │ 	└── ResourceSearchPage.ts
 │   ├── tests/
 │   │   ├── config/
 │   │   │   └── app.config.ts
@@ -82,6 +83,7 @@ BrightHorizonAssignment/
 │   │   │   │   └── testdata.json
 │   │   │   └── qa/
 │   │   │       └── testdata.json
+│   │   ├── backUpCare.spec.ts
 │   │   ├── centerSearch.spec.ts
 │   │   └── resourceSearch.spec.ts
 │   └── utils/
