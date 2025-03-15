@@ -52,7 +52,7 @@ const prodConfig: TestConfig = {
 };
 
 // Get the environment from command line. If none, set it to qa
-const environment = process.env.TEST_ENV || 'qa';
+const environment = (process.env.TEST_ENV)?.trim() || 'qa';
 
 // Config object with default configuration and environment specific configuration
 const config: TestConfig = {
