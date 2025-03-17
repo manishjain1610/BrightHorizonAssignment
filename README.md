@@ -1,5 +1,7 @@
 # Playwright Bright Horization Scenario Demo
 
+[![Playwright UI Tests for Bright Horizons](https://github.com/manishjain1610/BrightHorizonAssignment/actions/workflows/playwright-ci.yml/badge.svg)](https://github.com/manishjain1610/BrightHorizonAssignment/actions/workflows/playwright-ci.yml)
+
 This repository contains a Playwright UI test written in TypeScript and is configured to run tests in different environments such as QA and Production.
 
 ## Table of Contents
