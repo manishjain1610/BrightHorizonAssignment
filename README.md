@@ -18,6 +18,7 @@ This repository contains a Playwright UI test written in TypeScript and is confi
   - [Running Headless Tests](#running-headless-tests)
   - [Running Tests Sequentially](#running-tests-sequentially)
 - [Best Practices Used](#best-practices-used)
+- [CI Integration](#ci-integration)
 
 ## Installation
 
@@ -147,3 +148,7 @@ BrightHorizonAssignment/
 - **Page Object Model Design Pattern:** Ensures the test code is maintainable and scalable by separating page logic and test scenarios.
 - **Multiple Environment Support:** Supports QA and PROD environments with separate test data.
 - **Automatic Retrying Mechanism:** Increases test resilience by automatically retrying failed test cases, reducing false negatives, and ensuring more stable results.
+- **CI Integration:** Implements GitHub CI workflows to automatically run tests on changes to the master branch and pull requests, ensuring code quality and early detection of issues.
+
+## CI Integration
+The project uses GitHub Actions for continuous integration. The workflow configuration is located in `.github/workflows/playwright-ci.yml`.
