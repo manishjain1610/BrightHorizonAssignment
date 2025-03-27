@@ -1,0 +1,60 @@
+16-03:44 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+16-03:57 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+16-03:58 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+16-03:58 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+16-03:58 2025-03-27  🔍  [DEBUG]: 	Searching for the specified resource.
+16-03:00 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+16-03:52 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+16-03:04 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+16-03:05 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+16-03:05 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+16-03:07 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+16-03:53 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+16-03:57 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+16-03:58 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+16-03:58 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+16-03:00 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+16-03:33 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+16-03:39 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+16-03:40 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+16-03:40 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+16-03:42 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+17-03:38 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.[0m
+17-03:51 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.[0m
+17-03:52 2025-03-27  📃  [INFO]: 	The resource search field is visible.[0m
+17-03:52 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.[0m
+17-03:54 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. [0m
+17-03:45 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+17-03:51 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+17-03:52 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+17-03:52 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+17-03:54 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+17-03:48 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+17-03:01 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+17-03:02 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+17-03:02 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+17-03:04 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+17-03:48 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+17-03:55 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+17-03:56 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+17-03:56 2025-03-27  ⚠️  [WARN]: 	The resource search field is editable.
+17-03:58 2025-03-27  ❌  [ERROR]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+17-03:18 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+17-03:32 2025-03-27  📃  [INFO]: 	Navigating to Back up care page. Test Begins.
+17-03:33 2025-03-27  📃  [INFO]: 	Clicking on Find A Center link.
+17-03:35 2025-03-27  📃  [INFO]: 	Checking that new page has the correct URL.
+17-03:35 2025-03-27  📃  [INFO]: 	Searching for Location described in test.
+17-03:37 2025-03-27  📃  [INFO]: 	The Benefits Equity title matches.
+17-03:37 2025-03-27  📃  [INFO]: 	The managed Risk title matches.
+17-03:38 2025-03-27  📃  [INFO]: 	The Best In Class title matches.
+17-03:40 2025-03-27  📃  [INFO]: 	Navigating to home page. Test Begins.
+17-03:42 2025-03-27  📃  [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+17-03:42 2025-03-27  📃  [INFO]: 	Getting the details of first center from the list.
+17-03:42 2025-03-27  📃  [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+17-03:43 2025-03-27  📃  [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+17-03:43 2025-03-27  📃  [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+17-03:43 2025-03-27  📃  [INFO]: 	Clicking on search icon to open search field.
+17-03:44 2025-03-27  📃  [INFO]: 	The resource search field is visible.
+17-03:44 2025-03-27  📃  [INFO]: 	The resource search field is editable.
+17-03:44 2025-03-27  📃  [INFO]: 	Searching for the specified resource.
+17-03:46 2025-03-27  📃  [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 

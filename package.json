@@ -17,7 +17,8 @@
   "description": "",
   "dependencies": {
     "@playwright/test": "^1.50.1",
-    "winston": "^3.17.0"
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.8",
