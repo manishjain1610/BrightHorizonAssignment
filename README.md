@@ -19,6 +19,7 @@ This repository contains a Playwright UI test written in TypeScript and is confi
   - [Running Tests Sequentially](#running-tests-sequentially)
 - [Best Practices Used](#best-practices-used)
 - [CI Integration](#ci-integration)
+- [EMail Report](#email-report)
 
 ## Installation
 
@@ -154,3 +155,6 @@ BrightHorizonAssignment/
 
 ## CI Integration
 The project uses GitHub Actions for continuous integration. The workflow configuration is located in `.github/workflows/playwright-ci.yml`.
+
+## EMail Report
+The suite automatically emails the test report after execution but email settings need to be configured. I am using my personal email id & password from github secrets but other users may store their email settings (EMAIL_USER, EMAIL_PASS, SMTP_HOST, SMTP_PORT) in local .env file and use it. Please ensure that email service allows SMTP third-party access. I used zohomail for my own use.
