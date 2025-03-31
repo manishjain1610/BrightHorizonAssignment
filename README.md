@@ -90,14 +90,16 @@ BrightHorizonAssignment/
 │   │   ├── centerSearch.spec.ts
 │   │   └── resourceSearch.spec.ts
 │   └── utils/
-│       └── WinstonLogger.ts
+│       ├── WinstonLogger.ts
+|       └──EMailReports.ts
 ├── test-results/
 ├── .gitignore
 |── .eslintrc.json
 |── .prettierrc
 ├── package-lock.json
 ├── package.json
-└── playwright.config.ts
+├── playwright.config.ts
+├── globalTeardown.ts
 └── README.md
 ```
 
