@@ -41,6 +41,8 @@ const defaultConfig: PlaywrightTestConfig = {
       },
     },
   ],
+  // Global teardown file for emailing reports
+  globalTeardown: require.resolve('./globalTeardown'),
 };
 
 const qaConfig: TestConfig = {

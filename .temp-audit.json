@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 7
+  },
+  "auditLog": ".temp-audit.json",
+  "files": [
+    {
+      "date": 1743434101255,
+      "name": "logs\\BrightHorizon-2025-03-31.log",
+      "hash": "bd662a0e3cec220a8e8beb8ea55b1c03eadcc23cd5103eb1672441a0c08fa4d6"
+    }
+  ],
+  "hashType": "sha256"
+}

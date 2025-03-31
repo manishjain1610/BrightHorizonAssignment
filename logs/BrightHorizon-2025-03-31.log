@@ -1,0 +1,57 @@
+20-03:03 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:17 2025-03-31  📃  [INFO]: 	Clicking on Find A Center link.
+20-03:17 2025-03-31  📃  [INFO]: 	Navigating to Back up care page. Test Begins.
+20-03:19 2025-03-31  📃  [INFO]: 	Checking that new page has the correct URL.
+20-03:19 2025-03-31  📃  [INFO]: 	Searching for Location described in test.
+20-03:21 2025-03-31  📃  [INFO]: 	The Benefits Equity title matches.
+20-03:21 2025-03-31  📃  [INFO]: 	The managed Risk title matches.
+20-03:21 2025-03-31  📃  [INFO]: 	The Best In Class title matches.
+20-03:22 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:25 2025-03-31  📃  [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+20-03:25 2025-03-31  📃  [INFO]: 	Getting the details of first center from the list.
+20-03:25 2025-03-31  📃  [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+20-03:25 2025-03-31  📃  [INFO]: 	Clicking on search icon to open search field.
+20-03:25 2025-03-31  📃  [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+20-03:26 2025-03-31  📃  [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+20-03:26 2025-03-31  📃  [INFO]: 	The resource search field is visible.
+20-03:26 2025-03-31  📃  [INFO]: 	The resource search field is editable.
+20-03:26 2025-03-31  📃  [INFO]: 	Searching for the specified resource.
+20-03:29 2025-03-31  📃  [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+20-03:18 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:25 2025-03-31  📃  [INFO]: 	Clicking on Find A Center link.
+20-03:26 2025-03-31  📃  [INFO]: 	Navigating to Back up care page. Test Begins.
+20-03:27 2025-03-31  📃  [INFO]: 	Checking that new page has the correct URL.
+20-03:27 2025-03-31  📃  [INFO]: 	Searching for Location described in test.
+20-03:31 2025-03-31  📃  [INFO]: 	The Benefits Equity title matches.
+20-03:31 2025-03-31  📃  [INFO]: 	The managed Risk title matches.
+20-03:32 2025-03-31  📃  [INFO]: 	The Best In Class title matches.
+20-03:32 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:33 2025-03-31  📃  [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+20-03:33 2025-03-31  📃  [INFO]: 	Getting the details of first center from the list.
+20-03:33 2025-03-31  📃  [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+20-03:34 2025-03-31  📃  [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+20-03:34 2025-03-31  📃  [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+20-03:35 2025-03-31  📃  [INFO]: 	Clicking on search icon to open search field.
+20-03:36 2025-03-31  📃  [INFO]: 	The resource search field is visible.
+20-03:36 2025-03-31  📃  [INFO]: 	The resource search field is editable.
+20-03:36 2025-03-31  📃  [INFO]: 	Searching for the specified resource.
+20-03:39 2025-03-31  📃  [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
+20-03:56 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:02 2025-03-31  📃  [INFO]: 	Clicking on Find A Center link.
+20-03:02 2025-03-31  📃  [INFO]: 	Navigating to Back up care page. Test Begins.
+20-03:05 2025-03-31  📃  [INFO]: 	Checking that new page has the correct URL.
+20-03:05 2025-03-31  📃  [INFO]: 	Searching for Location described in test.
+20-03:07 2025-03-31  📃  [INFO]: 	The Benefits Equity title matches.
+20-03:07 2025-03-31  📃  [INFO]: 	The managed Risk title matches.
+20-03:07 2025-03-31  📃  [INFO]: 	The Best In Class title matches.
+20-03:08 2025-03-31  📃  [INFO]: 	Navigating to home page. Test Begins.
+20-03:11 2025-03-31  📃  [INFO]: 	The total centers found count 20 is equal to center count 20 from the list 
+20-03:11 2025-03-31  📃  [INFO]: 	Getting the details of first center from the list.
+20-03:11 2025-03-31  📃  [INFO]: 	Clicking the first center and getting the center details from popup Dialog.
+20-03:11 2025-03-31  📃  [INFO]: 	The center name in list is Bright Horizons at TriBeCa and the center name in popup dialog is Bright Horizons at TriBeCa
+20-03:11 2025-03-31  📃  [INFO]: 	The center address in list is 129 Hudson Street  New York, NY 10013 and the center address in popup dialog is 129 Hudson Street  New York, NY 10013
+20-03:12 2025-03-31  📃  [INFO]: 	Clicking on search icon to open search field.
+20-03:13 2025-03-31  📃  [INFO]: 	The resource search field is visible.
+20-03:13 2025-03-31  📃  [INFO]: 	The resource search field is editable.
+20-03:13 2025-03-31  📃  [INFO]: 	Searching for the specified resource.
+20-03:15 2025-03-31  📃  [INFO]: 	The first resource title in searched list is exactly same as what was typed in search textbox. 
