@@ -1,4 +1,4 @@
-name: Playwright UI Tests for Bright Horizons
+name: Playwright UI Tests for Bright Horizons with Reports EMail
 
 on:
   push:
@@ -38,3 +38,12 @@ jobs:
           name: playwright-report
           path: playwright-report/
           retention-days: 30
+
+      - name: Send Email with Report
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        run: |
+          node globalTeardown.ts
