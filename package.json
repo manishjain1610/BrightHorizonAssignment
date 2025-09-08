@@ -17,7 +17,7 @@
   "description": "",
   "dependencies": {
     "@playwright/test": "^1.50.1",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.2.2",
     "nodemailer": "^6.10.0",
     "winston": "^3.17.0",
     "winston-daily-rotate-file": "^5.0.0"
